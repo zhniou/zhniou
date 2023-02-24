@@ -8,8 +8,6 @@ Welcome to my Github page!
 
 #### 🌱 Now status: 
 - 菜鸟前端🥦 秃头少女🐰  
-- 
--
 
 <br />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sleeplessOrangeCat&show_icons=true&hide_border=true" />
