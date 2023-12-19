@@ -3,7 +3,6 @@
 <br />
 Welcome to my Github page! 
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/91867363/221072494-fe23bed1-e13d-40f1-9e96-5831b4366e06.jpeg" width="50%" height="auto" />
 
 
 #### 🌱 Now status: 
